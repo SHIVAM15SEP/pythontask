@@ -1,0 +1,43 @@
+Git >> Version Control
+
+v1
+v2
+v3
+new v4
+
+
+>> It is distributed (on Cloud)
+>> Collabaration
+>> Tracking changes
+>> Recovery
+
+https://git-scm.com/downloads
+
+GitHub
+BigBucket
+GitLabs
+Gitpod
+>> For first time need to congit configfigure github in our system
+git config --global user.name "SHIVAM15SEP"
+git config --global user.email "shivamroy80116@gmail.com"
+
+
+git config --global colour.ui auto
+
+
+Mandatory commands:
+>> git init
+>> git remote add origin https://github.com/SHIVAM15SEP/pythontask.git
+>> git pull origin main
+>> git status
+>> git add .
+>> git status
+>> git commit -m  "commit Message"
+>> git push
+
+create a new branch
+git checkout -b "branchName
+
+switch branch
+git checkout "branchNameWhichNeeds ToBeOpened"
+git clone https://github.com/rohan1997/Gitdemo.git
